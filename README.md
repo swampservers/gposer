@@ -1,7 +1,7 @@
 # GPoser
 A Garry's Mod addon to control your character's body and hands using your webcam. A spiritual successor to [FlexPoser](https://www.flexposer.com/) which also permits control of the hands and body. (facial expression control isn't actually implemented yet, but it will be)
 
-![pose](https://i.gyazo.com/a7a2829a76845512e646507b59d6c06d.mp4)
+![pose](https://i.gyazo.com/598809cab7885951c78442c0a37b1e96.png)
 
 GPoser uses [MediaPipe](https://google.github.io/mediapipe/) to bring cutting edge AI into Garry's Mod. All you need is a webcam!
 
