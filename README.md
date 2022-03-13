@@ -15,4 +15,4 @@ The addon is currently in a very alpha state, and is only released as a binary f
 
 3. From that folder, navigate to garrysmod/lua, then create a folder called "bin" and place **gmcl_gposer_win64.dll** in that folder.
 
-4. Join the server and type "gposer" in console. It should start printing messages and your webcam will start controlling your player momentarily. Other players will see you!
+4. Join the server and type "gposer" in console. It should start printing messages and your webcam will start controlling your player once it loads. Look in the bathroom mirror or use thirdperson (F4). Other players will see you!
