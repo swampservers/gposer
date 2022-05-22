@@ -15,7 +15,7 @@ GPoser uses [MediaPipe](https://google.github.io/mediapipe/) to bring cutting ed
 
 4. From that folder, navigate to garrysmod/lua, then create a folder called "bin" and place **gmcl_gposer_win64.dll** in that folder.
 
-5. Join the server (it only works on [Swamp Cinema](https://swamp.sv/) currently) and type "gposer" in console. It should start printing messages and your webcam will start controlling your player once it loads. Look in the bathroom mirror or use thirdperson (F4). Other players will see you!
+5. Join the server (it only works on [Swamp Cinema](https://swamp.sv/) currently) and in the shop, select the ✌GPoser tab to control it. Your webcam will start controlling your player once it loads. Look in the bathroom mirror or use thirdperson (F4). Other players will see you!
 
 ***
 
