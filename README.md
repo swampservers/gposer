@@ -1,5 +1,5 @@
 # GPoser
-A Garry's Mod addon to control your character's body and hands using your webcam. A spiritual successor to [FlexPoser](https://www.flexposer.com/) which also permits control of the hands and body. (facial expression control isn't actually implemented yet, but it will be). It's also a replacement for the Kinect integration built into GMod -  **All you need is a webcam!**
+A Garry's Mod addon to control your character's body, hands, and face using your webcam. Both a spiritual successor to [FlexPoser](https://www.flexposer.com/) and a replacement for the Kinect integration built into GMod - **All you need is a webcam!**
 
 ![pose](https://i.gyazo.com/598809cab7885951c78442c0a37b1e96.png)
 
@@ -19,4 +19,6 @@ GPoser uses [MediaPipe](https://google.github.io/mediapipe/) to bring cutting ed
 
 ***
 
-The addon is currently in a very alpha state, and is only released as a binary for now, which only works on [Swamp Cinema](https://swamp.sv/). I plan to release this with source code in the future (I can't right now because it's built out of the mediapipe repository, so I have to figure out how to split them, and the code needs to be cleaned up a lot).
+The addon is currently in an alpha state, and is only released as a binary for now, which only works on [Swamp Cinema](https://swamp.sv/).
+
+I plan to fully release this with source code in the near future!
